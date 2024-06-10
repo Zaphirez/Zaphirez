@@ -20,6 +20,7 @@ All of my coding skills are self-taught using Youtube Videos or Online Courses l
 
 ## 📊 GitHub Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaphirez&show_icons=true&theme=radical&hide=contribs,prs,issues&include_all_commits=true)
+<br>
 *This sometimes doesn't work so please excuse me*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaphirez&layout=compact&theme=radical&langs_count=4)
